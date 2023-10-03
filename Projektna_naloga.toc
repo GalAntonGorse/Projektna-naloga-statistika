@@ -1,0 +1,14 @@
+\babel@toc {slovene}{}\relax 
+\contentsline {section}{\numberline {}Prva naloga}{2}{}%
+\contentsline {subsection}{\numberline {}(a)}{2}{}%
+\contentsline {subsection}{\numberline {}(b)}{2}{}%
+\contentsline {subsection}{\numberline {}(c) in (d)}{3}{}%
+\contentsline {subsection}{\numberline {}(e)}{4}{}%
+\contentsline {subsection}{\numberline {}(f)}{5}{}%
+\contentsline {section}{\numberline {}Druga naloga}{7}{}%
+\contentsline {subsection}{\numberline {}(a)}{7}{}%
+\contentsline {subsection}{\numberline {}(b)}{8}{}%
+\contentsline {subsection}{\numberline {}(c)}{11}{}%
+\contentsline {section}{\numberline {}Tretja naloga}{12}{}%
+\contentsline {subsection}{\numberline {}(a)}{12}{}%
+\contentsline {subsection}{\numberline {}(b)}{15}{}%
